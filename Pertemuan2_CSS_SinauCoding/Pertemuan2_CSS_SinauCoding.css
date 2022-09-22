@@ -1,0 +1,68 @@
+.header{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-color-html{
+    color: #ff5d21;
+}
+
+.header-color-css{
+    color: #4d91f5;
+}
+
+
+.section{
+    width: 100%;
+    text-align: center;
+}
+
+.section-html{
+    background: #ffa07a url(./assets/logo-html.svg) repeat-y 20px center/100px;
+}
+
+.section-css{
+    background: #add8e6 url(./assets/logo-css.svg) repeat-y right/100px;
+
+}
+
+img{
+    width: 100px;
+    cursor: pointer;
+}
+
+img:hover{
+    width: 125px;
+}
+
+
+.navbar a{
+    color: black;
+    font-weight: bold;
+    margin-right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.navbar a:hover{
+    color: rgb(72, 72, 72);
+}
+
+.navbar a:active{
+    color: crimson;
+}
+
+
+.btn{
+    color: white;
+    cursor: pointer;
+}
+
+.btn-html{
+    background-color: #ff4500;
+}
+
+.btn-css{
+    background-color: #3b84f9;
+}
+
